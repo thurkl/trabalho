@@ -1,3 +1,7 @@
+
+
+const prompt = require("prompt-sync")();
+
 let alturaRomario = 150; 
 let alturaBebeto = 110;  
 let crescimentoRomario = 2; 
